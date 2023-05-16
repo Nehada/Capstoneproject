@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'dtsor'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38E38AFA4D8247B582B08E1C406AA4CB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54A62A2633304BD8B71B0F1520B38D5A }}
           package: .
